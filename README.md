@@ -1,4 +1,4 @@
-# rampantzine_webapp
+# rampantzine
 The code that powers RampantZine
 
 
